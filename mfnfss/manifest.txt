@@ -14,17 +14,16 @@ oldgerm.ins
         Installation script for the oldgerm package.
 
 pandora.dtx
-        Package to typeset with pandora fonts.
+        Package to typeset with Pandora fonts by Nazeen N. Billawala.
 
 pandora.ins
-        Installation script for the pandora package and it .fd files.
+        Installation script for the Pandora package and its .fd files.
 
 manifest.txt
         The file you are reading.
 
-readme.txt
-        General readme file containing distribution conditions and
-        information on how to process the files in this bundle.
+README.md
+        General readme file (in markdown) about the bundle.
 
 
 ===
@@ -32,12 +31,12 @@ readme.txt
 The following files have been removed from this bundle and are now
 part of the AMS-LaTeX distribution:
 
-amsfonts.fdd
-amsfonts.ins
-eufrak.dtx
-eufrak.ins
-euscript.dtx
-euscript.ins
+ - amsfonts.fdd
+ - amsfonts.ins
+ - eufrak.dtx
+ - eufrak.ins
+ - euscript.dtx
+ - euscript.ins
 
 
 

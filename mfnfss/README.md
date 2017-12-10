@@ -5,9 +5,7 @@ This "bundle" consists of a few old LaTeX2e packages written to
 support some metafont based fonts within NFSS. In the early days of
 LaTeX2e it was part of the required setup for LaTeX.
 
->
-> IMPORTANT NOTICE 
->
+## IMPORTANT NOTICE 
 
 The files in this bundle are no longer maintainted by the LaTeX Team!
 So I (Frank) have picked them up to give the sources a new home, but I
