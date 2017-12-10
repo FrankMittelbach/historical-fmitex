@@ -22,7 +22,7 @@ installfiles = {"*.fd", "*.sty"}
 typesetfiles = {"*.dtx"}
 
 -- Release a TDS-style zip
-packtdszip  = true
+packtdszip  = false
 
 -- tests for this bundle
 testfiledir = "testfiles"
