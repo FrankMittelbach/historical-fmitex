@@ -25,5 +25,7 @@ all distributions.
 The file `manifest.txt` contains a list of the main files in the
 distribution together with a short summary of each file.
 
+The files are licensed under LPPL.
+
 Frank Mittelbach
 
