@@ -1,0 +1,21 @@
+% minimal test
+
+\input{regression-test}
+
+\documentclass{article}
+
+
+
+\usepackage{oldgerm}
+
+\begin{document}
+
+\START
+
+\showoutput
+
+\textgoth{Some test}
+\textfrak{Some test}
+\textswab{Some test}
+
+\end{document}

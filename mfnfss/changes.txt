@@ -9,6 +9,12 @@ are not part of the distribution.
 =======================================================================
 
 
+2017-12-10 Frank Mittelbach <frank.mittelbach@latex-project.org>
+
+	* As the mfnfss bundle is no longer part of core LaTeX, I
+          moved the sources to github to provide "minimal" support.
+	  Only change is explicitly documenting that fact.
+
 1998-06-07 Frank Mittelbach <latex-bugs@latex-project.org>
 
 	* oldgerm.dtx: allow to load yinit in any size

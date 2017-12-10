@@ -1,0 +1,20 @@
+% minimal test
+
+\input{regression-test}
+
+\documentclass{article}
+
+
+
+\usepackage{pandora}
+
+\begin{document}
+
+\START
+
+\showoutput
+
+Some text
+
+\end{document}
+
